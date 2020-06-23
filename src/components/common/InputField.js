@@ -1,23 +1,19 @@
 import React from 'react';
 
 function InputField(props) {
-  const {
-    data: {value, error},
-    name,
-    placeholder,
-  } = props;
+  const { data, name, type, placeholder } = props;
   return (
     <div className="form-field">
       <input
-        type="text"
         name={name}
-        value={value}
+        type={type}
+        value={data.value}
         placeholder={placeholder}
-        className={error ? 'errorInput': ''}
+        className={data.error ? 'errorInput': ''}
         onChange={props.handleInputChange}
       />
       <div className="error-block">
-        {error}
+        {data.error}
       </div>
     </div>
   )

@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Header from './Header';
-import SignInForm from './SignInForm';
+import Header from './common/Header';
+import SignInCard from './signIn/SignInCard';
 import '../styles/App.css';
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div>
       <Header />
       <div className="content center">
-        <SignInForm />
+        <SignInCard />
       </div>
     </div>
   );
