@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f31166bad787706ca885c419432809b4",
+    "revision": "e967bd7bdcbb9c9827ab2a6a5742ab26",
     "url": "/healthifyme/index.html"
   },
   {
-    "revision": "758995a568e5340e8a85",
+    "revision": "9265c3c3a10ce8d2585e",
     "url": "/healthifyme/static/css/main.3134c2ba.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/healthifyme/static/js/2.23e1c2ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "758995a568e5340e8a85",
-    "url": "/healthifyme/static/js/main.ffd1dd3a.chunk.js"
+    "revision": "9265c3c3a10ce8d2585e",
+    "url": "/healthifyme/static/js/main.8fb3cfc6.chunk.js"
   },
   {
     "revision": "16ca5e6292ff6cec58cc",
