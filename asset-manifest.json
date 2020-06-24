@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//healthifyme/static/css/main.f10f43fe.chunk.css",
-    "main.js": "//healthifyme/static/js/main.2a3e6f2c.chunk.js",
-    "main.js.map": "//healthifyme/static/js/main.2a3e6f2c.chunk.js.map",
-    "runtime-main.js": "//healthifyme/static/js/runtime-main.8982c7cc.js",
-    "runtime-main.js.map": "//healthifyme/static/js/runtime-main.8982c7cc.js.map",
-    "static/js/2.23e1c2ba.chunk.js": "//healthifyme/static/js/2.23e1c2ba.chunk.js",
-    "static/js/2.23e1c2ba.chunk.js.map": "//healthifyme/static/js/2.23e1c2ba.chunk.js.map",
-    "index.html": "//healthifyme/index.html",
-    "precache-manifest.026f277fb10ab8cdc0250b07a0ea5203.js": "//healthifyme/precache-manifest.026f277fb10ab8cdc0250b07a0ea5203.js",
-    "service-worker.js": "//healthifyme/service-worker.js",
-    "static/css/main.f10f43fe.chunk.css.map": "//healthifyme/static/css/main.f10f43fe.chunk.css.map",
-    "static/js/2.23e1c2ba.chunk.js.LICENSE.txt": "//healthifyme/static/js/2.23e1c2ba.chunk.js.LICENSE.txt"
+    "main.css": "/healthifyme/static/css/main.f10f43fe.chunk.css",
+    "main.js": "/healthifyme/static/js/main.2a3e6f2c.chunk.js",
+    "main.js.map": "/healthifyme/static/js/main.2a3e6f2c.chunk.js.map",
+    "runtime-main.js": "/healthifyme/static/js/runtime-main.0341f9df.js",
+    "runtime-main.js.map": "/healthifyme/static/js/runtime-main.0341f9df.js.map",
+    "static/js/2.23e1c2ba.chunk.js": "/healthifyme/static/js/2.23e1c2ba.chunk.js",
+    "static/js/2.23e1c2ba.chunk.js.map": "/healthifyme/static/js/2.23e1c2ba.chunk.js.map",
+    "index.html": "/healthifyme/index.html",
+    "precache-manifest.e4e0c07586fa6f8f24a2895d414a3ba3.js": "/healthifyme/precache-manifest.e4e0c07586fa6f8f24a2895d414a3ba3.js",
+    "service-worker.js": "/healthifyme/service-worker.js",
+    "static/css/main.f10f43fe.chunk.css.map": "/healthifyme/static/css/main.f10f43fe.chunk.css.map",
+    "static/js/2.23e1c2ba.chunk.js.LICENSE.txt": "/healthifyme/static/js/2.23e1c2ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8982c7cc.js",
+    "static/js/runtime-main.0341f9df.js",
     "static/js/2.23e1c2ba.chunk.js",
     "static/css/main.f10f43fe.chunk.css",
     "static/js/main.2a3e6f2c.chunk.js"
