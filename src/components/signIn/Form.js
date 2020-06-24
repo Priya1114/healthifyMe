@@ -6,6 +6,7 @@ import { validateEmail, validatePassword } from '../../utils/validator';
 
 function Form(props) {
   let [formData, handleFormDataChange] = useState(initialData);
+  const disableBtn = (!formData.email.value || !formData.password.value );
 
   function onInputChange (event) {
     const fieldName = event.target.name;
@@ -44,9 +45,6 @@ function Form(props) {
       }
 
   }
-
-  const disableBtn = (!formData.email.value || !formData.password.value );
-  console.log(props)
 
   return (
     <div>
