@@ -1,3 +1,6 @@
 export function callGetAPI(endpoint) {
-  return fetch(endpoint, { method: 'GET'}).then(response => response.json());
+  return fetch(endpoint, {
+    method: 'GET',
+    mode: 'cors',
+  }).then(response => response.json());
 }
