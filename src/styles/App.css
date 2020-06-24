@@ -1,9 +1,10 @@
+#root {
+  height: 100vh;
+}
+
 body {
   margin: 0;
   font-family: 'Lato', sans-serif;
-}
-#root {
-  height: 100vh;
 }
 
 .logo {
@@ -19,7 +20,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-
 
 .header {
   margin: 0;
