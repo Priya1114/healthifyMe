@@ -16,7 +16,7 @@ function handleFormSubmit () {
     status: 'fetching',
   });
 
-  callGetAPI('http://www.mocky.io/v2/5d9d9219310000153650e30b')
+  callGetAPI('https://www.mocky.io/v2/5d9d9219310000153650e30b')
   .then(res => {
     handleApiResponse({
       ...response,
